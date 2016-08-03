@@ -16,6 +16,9 @@ Element news_bt = doc.select("div#thread_subject").first();
 <title><%=title %></title>
 <link rel="stylesheet" href="css/news0408.css"/>
 <style>
+body{
+	background-color: #f1f1f1;
+	}
 .news_info{
 	width: 80%;
 	margin: auto;

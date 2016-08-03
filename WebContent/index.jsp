@@ -30,7 +30,6 @@ for (Element element : a) {
 <style>
 body{
 	background-color: #f1f1f1;
-	width: 80%;
 	margin: auto;
 }
 .title li{
